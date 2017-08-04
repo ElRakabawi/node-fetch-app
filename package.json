@@ -1,0 +1,22 @@
+{
+  "name": "node-fetch-app",
+  "version": "1.0.0",
+  "description": "A responsive single page app fetcher for JSON into carousel structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "M. S. ElRakabawi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ElRakabawi/node-fetch-app.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "^3.0.0",
+    "node-fetch": "^1.7.1",
+    "owl.carousel": "^2.2.0"
+  }
+}
