@@ -1,6 +1,8 @@
 # Node fetch app documentation
 A NodeJS built application with express, express handelbars, node-fetch, bootstrap carousel for fetching a fake REST API into a JSON Object, then displaying it in a responsive carousel. **Live deployed demo [here](https://node-fetch-app.herokuapp.com/).**
 
+Reponsitivity test result: [Here](https://www.responsinator.com/?url=https%3A%2F%2Fnode-fetch-app.herokuapp.com).
+
 **- This guide is dissected into two sections:**
 * How to install/run the app
 * File structure 
@@ -64,7 +66,6 @@ node-fetch-app
 **core-interface.js**: Enhancer for behaviour and look of the bootstrap carousel.
 **home.handlebars**: Contains home view, handled by express-handelbars to generate HTML sections from parsed JSON object.
 **main.handlebars**: Contains main HTML Layout.
-
 
 
 Waving goes to Motoon.org, I enjoyed the task.
