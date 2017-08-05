@@ -19,5 +19,5 @@ This guide is dissected into three parts:
   ```
   ##### Installing and running our app
   4) Now acces the app directory you've downloaded from this repository with your terminal.
-  5) Run ```npm install``` in your command, then run ```npm start```.
+  5) Run ```npm install``` in your command, then run ```npm start```.
 
