@@ -16,7 +16,6 @@
   "dependencies": {
     "express": "*",
     "express-handlebars": "^3.0.0",
-    "node-fetch": "^1.7.1",
-    "owl.carousel": "^2.2.0"
+    "node-fetch": "^1.7.1"
   }
 }

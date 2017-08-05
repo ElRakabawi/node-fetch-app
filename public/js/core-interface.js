@@ -18,6 +18,6 @@ $(window).on("resize", function() {
 });
 
 $(".carousel").carousel({
-  interval: 100000,
+  interval: 6000,
   pause: "true",
 });
