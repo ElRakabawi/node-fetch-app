@@ -18,5 +18,105 @@ This guide is dissected into three parts:
   #returns your npm version as: 3.10.8
   ```
   ##### Installing and running our app
-  4) Now acces the app directory you've downloaded from this repository with your terminal. You will find a File structure like [this](https://github.com/ElRakabawi/node-fetch-app/readme/).
+  4) Now acces the app directory you've downloaded from this repository with your terminal. You will find a File structure like [this](https://github.com/ElRakabawi/node-fetch-app/blob/master/README.md###File structure).
   
+
+
+
+
+
+ ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ``` ```bash
+  elrakabawi$ node -v
+  #returns your nodejs version as: v6.9.0
+  elrakabawi$ npm -v
+  #returns your npm version as: 3.10.8
+  ```
+  
+  
+  ###File structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
