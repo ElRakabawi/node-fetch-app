@@ -1,10 +1,9 @@
 # Node fetch app documentation
 A NodeJS built application with express, express handelbars, node-fetch, bootstrap carousel for fetching a fake REST API into a JSON Object, then displaying it in a responsive carousel.
 
-**- This guide is dissected into three parts:**
+**- This guide is dissected into two sections:**
 * How to install/run the app
 * File structure 
-* How it's built?
 
 
 ### How to install/run the app?
@@ -34,15 +33,15 @@ A NodeJS built application with express, express handelbars, node-fetch, bootstr
 
 
 
-### File structure
+### File and folder structure
 
 ```
 node-fetch-app
 │
 │─── README.md
 │─── package.json
-│─── index.js                     #Were fetching happens using node-fetch, JSON strigified then parsed and server is
-│                                 #created with express.
+│─── index.js      
+│               
 └───public
 │   └─── stylesheet
 |   |     |
@@ -50,20 +49,21 @@ node-fetch-app
 │   │   
 |   └─── js
 |        |
-|        └─── corse-interface.js  #enhancer for the bootstrap carousel look
+|        └─── core-interface.js 
 │   
 |───views
-|    │───home.handelbars          #contains home view, handled by express-handelbars to generate HTML sections from parsed     |    |                            JSON object.
+|    │───home.handelbars
 |    │
 |    └─── layouts                 
-|           └───main.handelbars   #contains main HTML Layout
+|           └───main.handelbars  
 |
-└─── node_modules                 #contains necessary node modules like: node-fetch,express,express-handelbars ... etc.
+└─── node_modules   
 ```
 
-
-### How it's built
-
+**index.js**:  Where fetching happens using node-fetch, JSON strigified then parsed and server is created with express.
+**core-interface.js**: Enhancer for behaviour and look of the bootstrap carousel.
+**home.handlebars**: Contains home view, handled by express-handelbars to generate HTML sections from parsed JSON object.
+**main.handlebars**: Contains main HTML Layout.
 
 
 
