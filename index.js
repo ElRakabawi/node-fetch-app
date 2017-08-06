@@ -30,4 +30,6 @@ fetch('https://jsonplaceholder.typicode.com/posts')
       console.log('listening at localhost:'+app.get('port'));
     });
 
+}).catch(function(e){
+  console.log('There was a problem with the request, check the REST api path and restart the server.');
 });
