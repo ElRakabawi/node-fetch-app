@@ -63,8 +63,11 @@ node-fetch-app
 ```
 
 **index.js**:  Where fetching happens using node-fetch, JSON strigified then parsed and server is created with express.
+
 **core-interface.js**: Enhancer for behaviour and look of the bootstrap carousel.
+
 **home.handlebars**: Contains home view, handled by express-handelbars to generate HTML sections from parsed JSON object.
+
 **main.handlebars**: Contains main HTML Layout.
 
 
