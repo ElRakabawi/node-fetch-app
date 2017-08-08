@@ -20,8 +20,8 @@ Reponsitivity test result: [Here](https://www.responsinator.com/?url=https%3A%2F
   #returns your npm version as: 3.10.8
   ```
 ##### Installing and running our app
-4) clone the project: ```bash git clone https://github.com/ElRakabawi/node-fetch-app.git```
-    Then, access the directory with ```bash cd node-fetch-app```
+4) clone the project: ```git clone https://github.com/ElRakabawi/node-fetch-app.git```
+    Then, access the directory with ```cd node-fetch-app```
 5) Run ```npm install``` in your command, then run ```npm start```. This will run this commands: 
 
   ```bash
