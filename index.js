@@ -11,18 +11,16 @@ fetch('https://jsonplaceholder.typicode.com/posts')
     return response.json();
   })
   .then(function(json){
-    var str = JSON.stringify(json);
-    //console.log(str);
+
     app.set('views', path.join(__dirname, 'views'));
     app.engine('handlebars', exphbs({defaultLayout: 'main'}));
     app.set('view engine', 'handlebars');
 
     app.set('port', (process.env.PORT || 3000));
 
-    var data = JSON.parse(str);
     app.get('/', function(req, res){
       res.render('home',{
-        data: data,
+        data: json,
       });
     });
 
