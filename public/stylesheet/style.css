@@ -105,7 +105,7 @@ h2.title {
 }
 
 /* Mediaqueries for extra responsitivity*/
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 700px) {
   .body {
     display: none;
   }
