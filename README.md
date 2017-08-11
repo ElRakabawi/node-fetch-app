@@ -20,7 +20,8 @@ Reponsitivity test result: [Here](https://www.responsinator.com/?url=https%3A%2F
   #returns your npm version as: 3.10.8
   ```
 ##### Installing and running our app
-4) Now access the app directory you've downloaded from this repository with your terminal.
+4) clone the project: ```git clone https://github.com/ElRakabawi/node-fetch-app.git```
+    Then, access the directory with ```cd node-fetch-app```
 5) Run ```npm install``` in your command, then run ```npm start```. This will run this commands: 
 
   ```bash
@@ -63,9 +64,9 @@ node-fetch-app
 ```
 
 **index.js**:  Where fetching happens using node-fetch, JSON strigified then parsed and server is created with express.
-**core-interface.js**: Enhancer for behaviour and look of the bootstrap carousel.
-**home.handlebars**: Contains home view, handled by express-handelbars to generate HTML sections from parsed JSON object.
-**main.handlebars**: Contains main HTML Layout.
+<br />**core-interface.js**: Enhancer for behaviour and look of the bootstrap carousel.
+<br />**home.handlebars**: Contains home view, handled by express-handelbars to generate HTML sections from parsed JSON object.
+<br />**main.handlebars**: Contains main HTML Layout.
 
 
 Waving goes to Motoon.org, I enjoyed the task.
