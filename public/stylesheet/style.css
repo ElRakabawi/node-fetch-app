@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Muli|Pacifico');
+body {
+  background-image: url(http://i.imgur.com/FkPPsOV.png);
+  background-size: cover;
+}
+
 h3 {
   display: inline-block;
   padding: 10px;
@@ -28,10 +33,11 @@ h3 {
   text-shadow: none;
   transition: all .3s ease-in;
 }
+
 .carousel-control:hover {
   opacity: 1;
-  .glyphicon font-size: 30px;
 }
+
 .carousel-indicators li {
   opacity: 0.2;
 }
