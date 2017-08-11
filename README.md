@@ -12,12 +12,9 @@ Reponsitivity test result: [Here](https://www.responsinator.com/?url=https%3A%2F
 ##### Installing nodejs and npm
 1) The app is built on Node.jS, so to be able to run it you must have Node.JS and NPM. If you already have it on your system proceed to step(3).
 2) Visit [Node.JS](https://nodejs.org/en/download/), then download your OS installer and run it.
-3) Now you should have both NodeJS and NPM installed on your system, give them a little check by checking their presence and version in terminal/command-prompt:
+3) Now you should have both NodeJS and NPM installed on your system.
   ```bash
-  elrakabawi$ node -v
-  #returns your nodejs version as: v6.9.0
-  elrakabawi$ npm -v
-  #returns your npm version as: 3.10.8
+  elrakabawi$ node --version && npm --version
   ```
 ##### Installing and running our app
 4) clone the project: ```git clone https://github.com/ElRakabawi/node-fetch-app.git```
