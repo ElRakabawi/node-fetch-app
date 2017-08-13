@@ -4,7 +4,7 @@
   "description": "A responsive single page app fetcher for JSON into carousel structure.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "start": "node index.js"
   },
   "author": "M. S. ElRakabawi",
