@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ElRakabawi/node-fetch-app.svg?branch=master)](https://travis-ci.org/ElRakabawi/node-fetch-app)
 # Node fetch app documentation
 A NodeJS built application with express, express handelbars, node-fetch, bootstrap carousel for fetching a fake REST API into a JSON Object, then displaying it in a responsive carousel. **Live deployed demo [here](https://node-fetch-app.herokuapp.com/).**
 
